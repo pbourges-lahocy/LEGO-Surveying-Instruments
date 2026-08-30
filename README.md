@@ -20,15 +20,23 @@ So I wanted to try something different: design models in **BrickLink Studio usin
 
 ### Leica RTC700
 
+![Leica RTC700 LEGO model](RTC700/rtc700.png)
+
 The first model in this repository is a LEGO recreation of the **Leica RTC700**.
 
 The idea came after seeing the excellent brick-built RTC prototypes created by **Mei Yee Lai from Leica Geosystems**. Her work inspired me to try my own reconstruction in BrickLink Studio from publicly shared photos, while learning Studio along the way.
 
-Files for the RTC700 are stored in the [`RTC700`](./RTC700) folder.
+**Files:** [model (.io)](RTC700/rtc700.io) · [building instructions (PDF)](RTC700/rtc700.pdf) · [parts list (CSV)](RTC700/rtc700.csv) · [model page](RTC700/)
 
 ### Leica TS20
 
+![Leica TS20 LEGO model](TS20/ts20.png)
+
 The second model is a LEGO recreation of the **Leica TS20 total station**, also designed while learning BrickLink Studio.
+
+**Files:** [model (.io)](TS20/ts20.io) · [parts list (CSV)](TS20/ts20.csv) · [model page](TS20/)
+
+The TS20 building-instructions PDF will be added separately because the current export exceeds GitHub's normal single-file size limit.
 
 ## Repository contents
 
