@@ -34,18 +34,17 @@ The idea came after seeing the excellent brick-built RTC prototypes created by *
 
 The second model is a LEGO recreation of the **Leica TS20 total station**, also designed while learning BrickLink Studio.
 
-**Files:** [model (.io)](TS20/ts20.io) · [parts list (CSV)](TS20/ts20.csv) · [model page](TS20/)
-
-The TS20 building-instructions PDF will be added separately because the current export exceeds GitHub's normal single-file size limit.
+**Files:** [model (.io)](TS20/ts20.io) · [building instructions (PDF)](TS20/ts20.pdf) · [parts list (CSV)](TS20/ts20.csv) · [model page](TS20/)
 
 ## Repository contents
 
-For each model, I aim to provide:
+Each model currently includes:
 
 - BrickLink Studio `.io` file
-- Building instructions
-- Parts list / BOM
-- Reference renders or photos when available
+- Building instructions in PDF format
+- Parts list / BOM in CSV format
+- Rendered image
+- Dedicated README with model-specific information
 
 ## Build status
 
