@@ -2,7 +2,7 @@
 
 This folder contains my LEGO recreation of the **Leica RTC700**.
 
-This is one of my first BrickLink Studio projects. The goal is not to claim a perfect or professional LEGO design, but to create a surveying-instrument model that can actually be built using real LEGO parts.
+This is one of my first BrickLink Studio projects. The goal is not to claim a perfect or professional LEGO design, but to create a digital model based on real LEGO parts that others can experiment with and improve.
 
 ## Inspiration and credit
 
@@ -19,11 +19,17 @@ The folder is intended to contain:
 - the BrickLink Studio `.io` model;
 - building instructions;
 - a parts list / BOM;
-- photos or renders of the completed model.
+- photos or renders of the model.
 
-## Building notes
+## Build status — please read
 
-I am new to BrickLink Studio and LEGO model design. Some assemblies may therefore be unconventional or improvable. If you find a better solution for a section of the model, contributions and suggestions are welcome.
+I have **not yet built this model with physical LEGO bricks**. The model and instructions were produced in BrickLink Studio, so the complete real-world assembly has not been tested.
+
+There may therefore be connections, tolerances, stability issues or assembly sequences that need to be adjusted during a physical build.
+
+Some parts — especially certain parts in specific colours — may also be **rare, expensive or difficult to find on BrickLink**. In those cases, equivalent parts or colour substitutions may be needed.
+
+I am new to BrickLink Studio and LEGO model design, so some assemblies may be unconventional or improvable. If you build the RTC700 and discover an issue or a better solution, contributions and suggestions are very welcome.
 
 ## Disclaimer
 
