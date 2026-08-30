@@ -1,38 +1,38 @@
-# LEGO Surveying Instruments
+# Surveying Instruments — Brick Models
 
-Real surveying instruments, recreated with real LEGO parts in BrickLink Studio.
+Real surveying instruments recreated in BrickLink Studio using genuine LEGO parts.
 
-This repository contains my personal LEGO recreations of surveying equipment, with **BrickLink Studio files**, **building instructions**, and **parts lists** whenever available.
+This repository contains my personal brick-built interpretations of surveying equipment, with **BrickLink Studio files**, **building instructions**, and **parts lists**.
 
-> **Important:** I am not a professional LEGO designer. These are my very first projects made with BrickLink Studio. I have **not yet built these models physically**, so the assemblies have not been tested with real bricks. Although Studio accepts the digital models, there may be stability, tolerance, collision, connection, or assembly issues that only become apparent during a real build.
+> **Important:** I am not a professional LEGO designer. These are my first projects made with BrickLink Studio. I have **not yet built these models physically**, so the assemblies have not been validated with real bricks. Although Studio accepts the digital models, there may be stability, tolerance, collision, connection, or assembly issues that only become apparent during a real build.
 >
-> Some of the parts and/or specific colour combinations used in the models may also be **rare, expensive, discontinued, or difficult to source**. Substitutions may therefore be necessary.
+> Some parts and/or specific colour combinations used in the models may also be **rare, expensive, discontinued, or difficult to source**. Substitutions may therefore be necessary.
 
 Feedback, corrections, alternative parts and improved building techniques are very welcome.
 
 ## Why this project?
 
-I kept seeing AI-generated images of surveying instruments built from LEGO bricks. They looked fun, but most of them could not actually be reproduced from a real parts list.
+I kept seeing AI-generated images of surveying instruments made from LEGO bricks. They looked fun, but most were only images and did not come with an actual digital model or reproducible parts list.
 
-So I wanted to try something different: design models in **BrickLink Studio using real LEGO parts**, and share the source files, instructions and parts lists so that they can potentially be built and improved by the surveying and LEGO communities.
+So I wanted to try something different: design my own interpretations in **BrickLink Studio using genuine LEGO parts**, then share the source files, instructions and parts lists so they can potentially be built, tested and improved by the surveying and LEGO communities.
 
 ## Models
 
-### Leica RTC700
+### Leica RTC700 — fan-made brick model
 
-![Leica RTC700 LEGO model](RTC700/rtc700.png)
+![RTC700 fan-made brick model](RTC700/rtc700.png)
 
-The first model in this repository is a LEGO recreation of the **Leica RTC700**.
+The first model is my independent LEGO-brick interpretation of the **Leica RTC700**.
 
-The idea came after seeing the excellent brick-built RTC prototypes created by **Mei Yee Lai from Leica Geosystems**. Her work inspired me to try my own reconstruction in BrickLink Studio from publicly shared photos, while learning Studio along the way.
+The idea came after seeing the excellent brick-built RTC prototypes created by **Mei Yee Lai from Leica Geosystems**. Her work inspired me to create my own reconstruction in BrickLink Studio from publicly shared photos while learning Studio along the way. This model and the files provided here are my own reconstruction and are not official Leica Geosystems files.
 
 **Files:** [model (.io)](RTC700/rtc700.io) · [building instructions (PDF)](RTC700/rtc700.pdf) · [parts list (CSV)](RTC700/rtc700.csv) · [model page](RTC700/)
 
-### Leica TS20
+### Leica TS20 — fan-made brick model
 
-![Leica TS20 LEGO model](TS20/ts20.png)
+![TS20 fan-made brick model](TS20/ts20.png)
 
-The second model is a LEGO recreation of the **Leica TS20 total station**, also designed while learning BrickLink Studio.
+The second model is my independent LEGO-brick interpretation of the **Leica TS20 total station**, also designed while learning BrickLink Studio. This model and the files provided here are not official Leica Geosystems files.
 
 **Files:** [model (.io)](TS20/ts20.io) · [building instructions (PDF)](TS20/ts20.pdf) · [parts list (CSV)](TS20/ts20.csv) · [model page](TS20/)
 
@@ -52,13 +52,13 @@ These models are currently **digital prototypes**. They have been designed in Br
 
 If you decide to build one, please consider the instructions and parts lists as a starting point rather than a guarantee that every connection will work perfectly in real life. If you discover an issue or find an easier-to-source replacement for a rare part, please share it.
 
-## Disclaimer
+## Trademark and affiliation notice
 
-This is an independent fan project and is **not affiliated with, endorsed by, or sponsored by Leica Geosystems or the LEGO Group**.
+This is an **independent, non-commercial fan project**. It is not affiliated with, endorsed by, sponsored by, or produced by **Leica Geosystems** or the **LEGO Group**.
 
-LEICA and related product names and logos are trademarks of their respective owners. LEGO is a trademark of the LEGO Group.
+The names **Leica**, **RTC700** and **TS20** are used only to identify the real surveying instruments that inspired these fan-made models. LEICA and related product names and logos are trademarks of their respective owners. LEGO is a trademark of the LEGO Group.
 
-The models are shared for hobby, educational, and non-commercial purposes.
+No official Leica or LEGO logos are used as branding for this project. The models and files are shared for hobby and educational purposes.
 
 ## Feedback
 
