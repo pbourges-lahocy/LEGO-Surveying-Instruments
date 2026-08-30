@@ -1,0 +1,86 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11208c01,,11208c01.dat,"Wheel 14mm D. x 9.9mm with Center Groove, Fake Bolts and 6 Double Spokes with Black Tire 21 X 9.9 (11208 / 11209) ",1,15,White,Solid Colors,3,2.34
+11213,6187587,11213.dat,"Plate, Round 6 x 6 with Hole ",11,0,Black,Solid Colors,1,3.47
+1750,6400127,1750.dat,"Slope, Curved 2 x 2 Inverted with 2 Recessed Studs ",1,15,White,Solid Colors,16,
+18674,6195325,18674.dat,"Tile, Round 2 x 2 with Open Stud ",11,0,Black,Solid Colors,1,0.35
+22886,6153776,22886.dat,Brick 1 x 2 x 3,1,15,White,Solid Colors,2,2.1
+2357,235701,2357.dat,Brick 2 x 2 Corner,1,15,White,Solid Colors,12,1.25
+23948,,23948.dat,"Technic, Axle 11L ",1,15,White,Solid Colors,1,1.65
+2420,242001,2420.dat,Plate 2 x 2 Corner,1,15,White,Solid Colors,4,0.54
+2431,243101,2431.dat,Tile 1 x 4,1,15,White,Solid Colors,4,0.54
+2445,244501,2445.dat,Plate 2 x 12,1,15,White,Solid Colors,4,3.5
+2456,4181142,2456.dat,Brick 2 x 6,1,15,White,Solid Colors,6,3.74
+2456,,2456.dat,Brick 2 x 6,38,17,Light Green,Solid Colors,3,3.74
+25269,6172366,25269.dat,"Tile, Round 1 x 1 Quarter ",1,15,White,Solid Colors,8,0.1
+25269,,25269.dat,"Tile, Round 1 x 1 Quarter ",38,17,Light Green,Solid Colors,3,0.1
+27507,,27507.dat,"Tile, Round Corner 4 x 4 Macaroni ",38,17,Light Green,Solid Colors,4,0.67
+27925,,27925.dat,"Tile, Round Corner 2 x 2 Macaroni ",38,17,Light Green,Solid Colors,4,0.3
+3001,300101,3001.dat,Brick 2 x 4,1,15,White,Solid Colors,10,2.32
+3003,,3003.dat,Brick 2 x 2,38,17,Light Green,Solid Colors,4,1.35
+3004,,3004.dat,Brick 1 x 2,38,17,Light Green,Solid Colors,6,0.83
+3004,300401,3004.dat,Brick 1 x 2,1,15,White,Solid Colors,8,0.8
+3005,,3005.dat,Brick 1 x 1,38,17,Light Green,Solid Colors,8,0.44
+3005,300501,3005.dat,Brick 1 x 1,1,15,White,Solid Colors,4,0.44
+3007,6033776,3007.dat,Brick 2 x 8,1,15,White,Solid Colors,1,4.75
+3008,,3008.dat,Brick 1 x 8,38,17,Light Green,Solid Colors,10,3.21
+3008,300801,3008.dat,Brick 1 x 8,1,15,White,Solid Colors,8,3.21
+3009,300901,3009.dat,Brick 1 x 6,1,15,White,Solid Colors,19,2.42
+3009,,3009.dat,Brick 1 x 6,251,100040,Trans-Black,Transparent Colors,2,2.42
+3009,,3009.dat,Brick 1 x 6,38,17,Light Green,Solid Colors,18,2.42
+3010,301001,3010.dat,Brick 1 x 4,1,15,White,Solid Colors,18,1.64
+3010,,3010.dat,Brick 1 x 4,38,17,Light Green,Solid Colors,4,1.64
+3030,4503008,3030.dat,Plate 4 x 10,1,15,White,Solid Colors,1,5.55
+3034,303401,3034.dat,Plate 2 x 8,1,15,White,Solid Colors,3,2.27
+3035,303501,3035.dat,Plate 4 x 8,1,15,White,Solid Colors,1,4.7
+3036,303601,3036.dat,Plate 6 x 8,1,15,White,Solid Colors,1,6.4
+3037,303701,3037.dat,Slope 45 2 x 4,1,15,White,Solid Colors,2,1.97
+3038,4258358,3038.dat,Slope 45 2 x 3,1,15,White,Solid Colors,2,1.72
+3039,303901,3039.dat,Slope 45 2 x 2,1,15,White,Solid Colors,1,1.15
+3040a,,3040a.dat,Slope 45 2 x 1 without Bottom Tube,1,15,White,Solid Colors,4,
+3040,4121932,3040b.dat,Slope 45 2 x 1,1,15,White,Solid Colors,4,0.69
+3040,,3040b.dat,Slope 45 2 x 1,38,17,Light Green,Solid Colors,4,0.69
+3062,306226,3062b.dat,"Brick, Round  1 x 1 ",11,0,Black,Solid Colors,4,0.28
+crssprt02,,3067a.dat,"Brick 1 x 6 without Bottom Tubes, with Cross Supports ",38,17,Light Green,Solid Colors,2,2.52
+crssprt02,,3067a.dat,"Brick 1 x 6 without Bottom Tubes, with Cross Supports ",1,15,White,Solid Colors,2,2.52
+3069,306901,3069b.dat,Tile 1 x 2,1,15,White,Solid Colors,4,0.26
+3456,6256981,3456.dat,Plate 6 x 14,1,15,White,Solid Colors,2,
+3460,346001,3460.dat,Plate 1 x 8,1,15,White,Solid Colors,3,1.36
+3622,362201,3622.dat,Brick 1 x 3,1,15,White,Solid Colors,8,1.24
+3660,366001,3660b.dat,"Slope, Inverted 45 2 x 2 with Flat Bottom Pin ",1,15,White,Solid Colors,18,
+3665,,3665.dat,"Slope, Inverted 45 2 x 1 ",38,17,Light Green,Solid Colors,4,0.69
+3665,366501,3665.dat,"Slope, Inverted 45 2 x 1 ",1,15,White,Solid Colors,8,0.66
+3684a,,3684.dat,Slope 75 2 x 2 x 3 - Hollow Studs,38,17,Light Green,Solid Colors,2,2.83
+3685,,3685.dat,Slope 75 2 x 2 x 3 Double Convex,38,17,Light Green,Solid Colors,4,2.36
+3700,370001,3700.dat,"Technic, Brick 1 x 2 with Hole ",1,15,White,Solid Colors,7,0.82
+3700,,3700.dat,"Technic, Brick 1 x 2 with Hole ",38,17,Light Green,Solid Colors,2,0.82
+3710,,3710.dat,Plate 1 x 4,38,17,Light Green,Solid Colors,2,0.71
+3710,371001,3710.dat,Plate 1 x 4,1,15,White,Solid Colors,2,0.71
+37352,6248827,37352.dat,"Slope, Curved 1 x 2 with Bottom Stud Holder ",1,15,White,Solid Colors,4,0.63
+3794b,6051511,3794b.dat,"Plate, Modified 1 x 2 with 1 Stud with Groove (Jumper) ",1,15,White,Solid Colors,2,0.3
+3795,379501,3795.dat,Plate 2 x 6,1,15,White,Solid Colors,6,1.74
+3957,395726,3957.dat,Antenna 4H - Round Top,11,0,Black,Solid Colors,1,0.42
+4070,407001,4070.dat,"Brick, Modified 1 x 1 with Headlight ",1,15,White,Solid Colors,4,0.36
+4162,416201,4162.dat,Tile 1 x 8,1,15,White,Solid Colors,1,1.06
+43093,4184171,43093.dat,"Technic, Axle  1L with Pin with Friction Ridges ",1,15,White,Solid Colors,3,0.26
+4460b,446001,4460b.dat,Slope 75 2 x 1 x 3 - Hollow Stud,1,15,White,Solid Colors,4,1.68
+5848,,5848.dat,"Slope, Curved 1 x 1 Corner Round ",38,17,Light Green,Solid Colors,4,0.24
+5907,,5907.dat,"Slope, Curved 2 x 1 x 1 2/3 ",38,17,Light Green,Solid Colors,8,0.6
+6044,604401,6044.dat,Slope 53 3 x 1 x 3 1/3 with Studs on Slope,1,15,White,Solid Colors,4,
+6111,,6111.dat,Brick 1 x 10,38,17,Light Green,Solid Colors,4,3.8
+6111,611101,6111.dat,Brick 1 x 10,1,15,White,Solid Colors,8,3.8
+6320,,6320.dat,Tile 6 x 8,1,15,White,Solid Colors,1,
+6636,663601,6636.dat,Tile 1 x 6,1,15,White,Solid Colors,1,0.83
+69729,6332042,69729.dat,Tile 2 x 6,1,15,White,Solid Colors,14,
+7126,6536331,7126.dat,"Slope, Curved 1 x 1 ",1,15,White,Solid Colors,4,
+7212,,7212.dat,"Tile, Round 6 x 6 ",251,100040,Trans-Black,Transparent Colors,1,2.95
+74611,,74611.dat,"Plate, Round 8 x 8 with Hole ",38,17,Light Green,Solid Colors,5,6.42
+7532,,7532.dat,"Brick, Round 1 x 1 Quarter ",38,17,Light Green,Solid Colors,44,0.35
+8165,,8165.dat,Tile 4 x 8,1,15,White,Solid Colors,2,3.45
+8165,,8165.dat,Tile 4 x 8,38,17,Light Green,Solid Colors,1,3.45
+92947,6024730,92947.dat,"Brick, Round 2 x 2 with Axle Hole and Grille / Fluted Profile ",11,0,Black,Solid Colors,3,0.98
+98138,6446337,98138.dat,"Tile, Round 1 x 1 ",251,100040,Trans-Black,Transparent Colors,1,
+7512,,bl_7512.dat,"Slope, Curved 2 x 2 Inverted Corner with Recessed Stud ",1,15,White,Solid Colors,4,1.1
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+427,568.3201 +a
+,,,,,,,,

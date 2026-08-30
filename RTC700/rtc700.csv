@@ -1,0 +1,62 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+10247,6047417,10247.dat,"Plate, Modified 2 x 2 with Pin Hole - Full Cross Support Underneath ",85,72,Dark Bluish Gray,Solid Colors,4,0.74
+1751,6400128,1751.dat,Tile 4 x 4,1,15,White,Solid Colors,1,
+18674,6115080,18674.dat,"Tile, Round 2 x 2 with Open Stud ",85,72,Dark Bluish Gray,Solid Colors,4,0.35
+2357,235701,2357.dat,Brick 2 x 2 Corner,1,15,White,Solid Colors,8,1.25
+2456,4210875,2456.dat,Brick 2 x 6,85,72,Dark Bluish Gray,Solid Colors,4,3.74
+26601,6164073,26601.dat,"Wedge, Plate 2 x 2  Cut Corner ",85,72,Dark Bluish Gray,Solid Colors,24,0.5
+26603,6156667,26603.dat,Tile 2 x 3,1,15,White,Solid Colors,3,0.68
+27263,6177079,27263.dat,"Tile, Modified Facet 2 x 2 ",85,72,Dark Bluish Gray,Solid Colors,4,0.33
+27925,,27925.dat,"Tile, Round Corner 2 x 2 Macaroni ",113,39,Trans-Aqua,Transparent Colors,8,0.3
+28192,6166894,28192.dat,Slope 45 2 x 1 with Cutout without Stud,1,15,White,Solid Colors,6,0.41
+3001,300101,3001.dat,Brick 2 x 4,1,15,White,Solid Colors,2,2.32
+3004,300426,3004.dat,Brick 1 x 2,11,0,Black,Solid Colors,4,0.8
+3004,300401,3004.dat,Brick 1 x 2,1,15,White,Solid Colors,25,0.8
+3005,300501,3005.dat,Brick 1 x 1,1,15,White,Solid Colors,7,0.44
+3005,4211098,3005.dat,Brick 1 x 1,85,72,Dark Bluish Gray,Solid Colors,8,0.44
+3006,4617860,3006.dat,Brick 2 x 10,11,0,Black,Solid Colors,1,5.75
+3007,6033776,3007.dat,Brick 2 x 8,1,15,White,Solid Colors,1,4.75
+3008,300801,3008.dat,Brick 1 x 8,1,15,White,Solid Colors,11,3.21
+3009,300901,3009.dat,Brick 1 x 6,1,15,White,Solid Colors,3,2.42
+3010,4211103,3010.dat,Brick 1 x 4,85,72,Dark Bluish Gray,Solid Colors,16,1.64
+3010,301001,3010.dat,Brick 1 x 4,1,15,White,Solid Colors,5,1.64
+3020,302001,3020.dat,Plate 2 x 4,1,15,White,Solid Colors,4,1.2
+3022,302226,3022.dat,Plate 2 x 2,11,0,Black,Solid Colors,1,0.64
+3022,302201,3022.dat,Plate 2 x 2,1,15,White,Solid Colors,1,0.64
+3023,302301,3023b.dat,Plate 1 x 2,1,15,White,Solid Colors,3,0.36
+3024,4210719,3024.dat,Plate 1 x 1,85,72,Dark Bluish Gray,Solid Colors,4,0.2
+3029,4168072,3029.dat,Plate 4 x 12,1,15,White,Solid Colors,2,6.76
+3032,303226,3032.dat,Plate 4 x 6,11,0,Black,Solid Colors,2,3.3
+3066,,3066.dat,Brick 1 x 4 without Bottom Tubes,1,15,White,Solid Colors,10,1.71
+3068,,3068b.dat,Tile 2 x 2,113,39,Trans-Aqua,Transparent Colors,3,0.49
+3068,306801,3068b.dat,Tile 2 x 2,1,15,White,Solid Colors,1,0.48
+3069,306901,3069b.dat,Tile 1 x 2,1,15,White,Solid Colors,1,0.26
+32803,6211476,32803.dat,"Slope, Curved 2 x 2 x 2/3 Inverted ",11,0,Black,Solid Colors,2,0.67
+3460,4210998,3460.dat,Plate 1 x 8,85,72,Dark Bluish Gray,Solid Colors,2,1.36
+3622,362201,3622.dat,Brick 1 x 3,1,15,White,Solid Colors,19,1.24
+3623,362301,3623.dat,Plate 1 x 3,1,15,White,Solid Colors,2,
+3660old,,3660a.dat,"Slope, Inverted 45 2 x 2 with Solid Round Bottom Tube ",113,39,Trans-Aqua,Transparent Colors,1,1.25
+3666,4211056,3666.dat,Plate 1 x 6,85,72,Dark Bluish Gray,Solid Colors,2,1.06
+3666,366601,3666.dat,Plate 1 x 6,1,15,White,Solid Colors,5,1.06
+3678b,4234525,3678b.dat,Slope 65 2 x 2 x 2 with Bottom Tube,1,15,White,Solid Colors,9,2.09
+3710,371001,3710.dat,Plate 1 x 4,1,15,White,Solid Colors,10,0.71
+3795,379501,3795.dat,Plate 2 x 6,1,15,White,Solid Colors,1,1.74
+4150,,4150.dat,"Tile, Round 2 x 2 ",113,39,Trans-Aqua,Transparent Colors,2,0.33
+4740,474026,4740.dat,Dish 2 x 2 Inverted (Radar),11,0,Black,Solid Colors,4,0.28
+54200,4504378,54200.dat,Slope 30 1 x 1 x 2/3,85,72,Dark Bluish Gray,Solid Colors,2,0.21
+54200,4504369,54200.dat,Slope 30 1 x 1 x 2/3,1,15,White,Solid Colors,2,0.21
+60474,4528323,60474.dat,"Plate, Round 4 x 4 with Hole ",85,72,Dark Bluish Gray,Solid Colors,2,1.6
+6636,4210651,6636.dat,Tile 1 x 6,85,72,Dark Bluish Gray,Solid Colors,1,0.83
+69729,6332042,69729.dat,Tile 2 x 6,1,15,White,Solid Colors,1,
+74611,6393938,74611.dat,"Plate, Round 8 x 8 with Hole ",11,0,Black,Solid Colors,3,
+7547,,7547.dat,"Slope, Curved 4 x 2 x 2/3 Double ",11,0,Black,Solid Colors,1,1.07
+85984,4567887,85984.dat,Slope 30 1 x 2 x 2/3,85,72,Dark Bluish Gray,Solid Colors,3,0.34
+85984,4547489,85984.dat,Slope 30 1 x 2 x 2/3,1,15,White,Solid Colors,15,0.34
+87620,4624186,87620.dat,"Brick, Modified Facet 2 x 2 ",85,72,Dark Bluish Gray,Solid Colors,24,1
+99207,6000650,99207.dat,Bracket 1 x 2 - 2 x 2 Inverted,11,0,Black,Solid Colors,4,0.8
+99207,6097637,99207.dat,Bracket 1 x 2 - 2 x 2 Inverted,1,15,White,Solid Colors,1,0.8
+7826,,bl_7826.dat,Slope 30 1 x 1 x 2/3 Double Convex Corner,1,15,White,Solid Colors,4,0.15
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+303,325.26 +a
+,,,,,,,,
