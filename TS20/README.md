@@ -9,9 +9,9 @@ This is one of my very first BrickLink Studio projects. I am not a professional 
 ## Files
 
 - [`ts20.io`](ts20.io) — BrickLink Studio model
+- [`ts20.pdf`](ts20.pdf) — building instructions
 - [`ts20.csv`](ts20.csv) — parts list / BOM
 - [`ts20.png`](ts20.png) — rendered image
-- Building instructions PDF — to be added separately (the current export exceeds GitHub's normal single-file size limit)
 
 ## Build status — please read
 
