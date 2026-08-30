@@ -1,5 +1,7 @@
 # Leica RTC700 — LEGO model
 
+![Leica RTC700 recreated in BrickLink Studio](rtc700.png)
+
 This folder contains my LEGO recreation of the **Leica RTC700**.
 
 This is one of my first BrickLink Studio projects. The goal is not to claim a perfect or professional LEGO design, but to create a digital model based on real LEGO parts that others can experiment with and improve.
@@ -14,12 +16,10 @@ This repository contains **my own Studio reconstruction and instructions**, not 
 
 ## Files
 
-The folder is intended to contain:
-
-- the BrickLink Studio `.io` model;
-- building instructions;
-- a parts list / BOM;
-- photos or renders of the model.
+- [`rtc700.io`](rtc700.io) — BrickLink Studio model
+- [`rtc700.pdf`](rtc700.pdf) — building instructions
+- [`rtc700.csv`](rtc700.csv) — parts list / BOM
+- [`rtc700.png`](rtc700.png) — rendered image
 
 ## Build status — please read
 
